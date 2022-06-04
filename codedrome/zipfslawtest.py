@@ -2,7 +2,7 @@ import zipfslaw
 
 def main():
     try:
-        f = open("news_dataset", "r", encoding="ansi")
+        f = open("Oʻtgan kunlar.txt", "r", encoding="ansi")
         text = f.read()
         f.close()
 
