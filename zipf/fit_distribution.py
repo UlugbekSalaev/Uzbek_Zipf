@@ -24,7 +24,7 @@ def compute_summary(word_counts):
 
 def estimate_zipf(word_counts):
     """
-    Fit Zipf distribution to a a set of word counts.
+    Fit Zipf distribution to a set of word counts.
 
     Arguments:
         word_counts: distribution of word counts, as a numpy array
